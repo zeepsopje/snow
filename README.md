@@ -1,5 +1,5 @@
 # Snowfall experiment
 
-Little experiment with falling snow
+Little experiment animating falling snow
 
 ![Screenshot](./screenshot.png)
